@@ -148,5 +148,4 @@ Untuk pengembangan selanjutnya, disarankan untuk menambahkan fitur-fitur berikut
 3. VanderPlas, J. (2016). *Python Data Science Handbook*. O'Reilly Media.
 4. Plotly. (2023). *Plotly Python Graphing Library*. Retrieved from [https://plotly.com/python/](https://plotly.com/python/)
 5. Dash. (2023). *Dash by Plotly*. Retrieved from [https://dash.plotly.com/](https://dash.plotly.com/)
-6. Retrieved from [https://us.youtubers.me/](https://us.youtubers.me/)
 
