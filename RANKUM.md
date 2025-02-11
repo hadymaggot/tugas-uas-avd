@@ -8,8 +8,6 @@ Pertumbuhan platform YouTube yang pesat telah menjadikannya sumber data yang kay
 
 Dashboard interaktif dapat memfasilitasi eksplorasi data ini secara lebih mudah dan efektif. **Johnson dan Lee (2021)** menyatakan bahwa visualisasi data yang baik dapat membantu dalam pengambilan keputusan yang lebih baik dengan menyajikan informasi kompleks dalam format yang lebih mudah dipahami.
 
-Pertumbuhan platform YouTube yang pesat telah menjadikannya sumber data yang kaya untuk memahami tren video dan perilaku penonton.  Analisis data video YouTube dapat memberikan wawasan berharga bagi para pembuat konten, pemasar, dan peneliti.  Dashboard interaktif dapat memfasilitasi eksplorasi data ini secara lebih mudah dan efektif.
-
 ### 1.2 Tujuan Proyek
 
 Tujuan dari proyek ini adalah untuk mengembangkan dashboard interaktif yang memvisualisasikan data dari 1000 video YouTube terpopuler. Dashboard ini akan memungkinkan pengguna untuk menganalisis metrik kunci seperti jumlah penayangan, suka, tidak suka, dan komentar berdasarkan kategori video, meliputi:
