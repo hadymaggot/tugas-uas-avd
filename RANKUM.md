@@ -110,3 +110,22 @@ kaggle.com
 
 ## LAMPIRAN
 
+### Screenshot
+
+![image](https://github.com/user-attachments/assets/3dc5083a-303e-4bf7-81fd-a3db7284f96e)
+
+![image](https://github.com/user-attachments/assets/190d4f8c-ca93-4e4a-836a-53137af51e0e)
+
+![image](https://github.com/user-attachments/assets/7b44145c-4600-4da5-862d-873406f5789a)
+
+![image](https://github.com/user-attachments/assets/256762a0-1f25-4437-bc83-98555531ec12)
+
+![image](https://github.com/user-attachments/assets/5d2cd6a9-3110-4adb-ab3f-665b49178fcf)
+
+![image](https://github.com/user-attachments/assets/1122b23e-680b-4d6e-ae67-670c10d0c8b0)
+
+![image](https://github.com/user-attachments/assets/bc88d7a9-1a18-4683-a1fb-e4288d92cb86)
+
+![image](https://github.com/user-attachments/assets/9d77d3da-d000-4a2f-abc0-1075b6b2d562)
+
+![image](https://github.com/user-attachments/assets/76f520f6-ec4f-43da-b9a8-5d670759ffee)
